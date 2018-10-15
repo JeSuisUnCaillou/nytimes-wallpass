@@ -2,8 +2,7 @@
     "name": "nytimes-wallpass",
     "version": "1.0",
     "manifest_version": 2,
-    
-    "description": "Bypasse the New York Times frontend paywall",
+    "description": "Bypass the New York Times frontend paywall",
     "content_scripts": [
         {
           "matches": [
