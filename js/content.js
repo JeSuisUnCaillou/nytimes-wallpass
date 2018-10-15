@@ -38,6 +38,7 @@ let bypass = () => {
 
 }
 
+// Wait for 2sec, so the DOM already has the paywall elements
 setTimeout(() => {
   bypass()
 }, 2000);
