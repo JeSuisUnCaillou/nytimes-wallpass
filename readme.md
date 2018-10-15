@@ -9,4 +9,5 @@ This is a chrome extension, made to bypass the paywall of nytimes. It also clean
 * Enable developer mode (top right switch button)
 * Clic on 'LOAD UNPACKED' and select the folder 'nytimes-wallpass' you downloaded on your computer
 * Load an [article from nytimes.com](https://www.nytimes.com/2018/10/10/technology/personaltech/how-to-delete-facebook-instagram-account.html)
-* Enjoy reading it
+* Wait for a the paywall to load then disapear
+* Enjoy reading the article
